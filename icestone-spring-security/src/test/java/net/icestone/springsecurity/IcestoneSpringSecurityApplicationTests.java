@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
-import net.icestone.springsecurity.controller.LoginController;
+import net.icestone.springsecurity.controllers.LoginController;
 
 @SpringBootTest
 class IcestoneSpringSecurityApplicationTests {

@@ -1,4 +1,4 @@
-package net.icestone.springsecurity.controller;
+package net.icestone.springsecurity.controllers;
 
 import javax.annotation.security.RolesAllowed;
 
